@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReservaDeAlojamiento-AcamicaSprint2/static/css/main.13319658.chunk.css",
+    "main.js": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/main.6d8aafb0.chunk.js",
+    "main.js.map": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/main.6d8aafb0.chunk.js.map",
+    "runtime-main.js": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/runtime-main.a54e0edf.js",
+    "runtime-main.js.map": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/runtime-main.a54e0edf.js.map",
+    "static/js/2.5dbbf283.chunk.js": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/2.5dbbf283.chunk.js",
+    "static/js/2.5dbbf283.chunk.js.map": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/2.5dbbf283.chunk.js.map",
+    "static/js/3.bf81a3ed.chunk.js": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/3.bf81a3ed.chunk.js",
+    "static/js/3.bf81a3ed.chunk.js.map": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/3.bf81a3ed.chunk.js.map",
+    "index.html": "/ReservaDeAlojamiento-AcamicaSprint2/index.html",
+    "static/css/main.13319658.chunk.css.map": "/ReservaDeAlojamiento-AcamicaSprint2/static/css/main.13319658.chunk.css.map",
+    "static/js/2.5dbbf283.chunk.js.LICENSE.txt": "/ReservaDeAlojamiento-AcamicaSprint2/static/js/2.5dbbf283.chunk.js.LICENSE.txt",
+    "static/media/bed-solid.e638a1f7.svg": "/ReservaDeAlojamiento-AcamicaSprint2/static/media/bed-solid.e638a1f7.svg",
+    "static/media/dollar-sign-solid-gray.4b82de63.svg": "/ReservaDeAlojamiento-AcamicaSprint2/static/media/dollar-sign-solid-gray.4b82de63.svg",
+    "static/media/dollar-sign-solid.71171fbe.svg": "/ReservaDeAlojamiento-AcamicaSprint2/static/media/dollar-sign-solid.71171fbe.svg",
+    "static/media/frown-solid.919dbe11.svg": "/ReservaDeAlojamiento-AcamicaSprint2/static/media/frown-solid.919dbe11.svg",
+    "static/media/map-marker-alt-solid.1ea5e471.svg": "/ReservaDeAlojamiento-AcamicaSprint2/static/media/map-marker-alt-solid.1ea5e471.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54e0edf.js",
+    "static/js/2.5dbbf283.chunk.js",
+    "static/css/main.13319658.chunk.css",
+    "static/js/main.6d8aafb0.chunk.js"
+  ]
+}
