@@ -1,5 +1,8 @@
 # Reserva de Alojamientos [Carrera: Desarrollo Web Frontend]
 
+## Aplicación de Busqueda de Hoteles
+* [Link a la demo](https://mariotorres94.github.io/ReservaDeAlojamiento-AcamicaSprint2/)
+
 ## Tecnologías y recursos utilizados 
 * [React](https://reactjs.org/)
 * [React Hooks](https://reactjs.org/docs/hooks-intro.html)
